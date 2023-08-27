@@ -1,0 +1,39 @@
+.container-update {
+    display: flex;
+    flex-direction: column;
+}
+
+.button-update-ctn {
+    margin-top: 25px;
+    padding: 10px;
+}
+
+.button-update {
+    margin-bottom: 5px;
+    width: 100%;
+    font-size: 15px;
+}
+
+.title {
+    display: flex;
+    font-size: 20px;
+    font-weight: bold;
+    justify-content: center;
+    margin: 10px;
+    margin-bottom: 15px;
+}
+
+.descricao {
+    display: flex;
+    font-size: 15px;
+    justify-content: center;
+    margin: 10px;
+    margin-bottom: 15px;
+}
+
+.input {
+    display: flex;
+    font-size: 19px;
+    justify-content: center;
+    margin: 10px;
+}
